@@ -1,3 +1,10 @@
+# Venue Page
+ Frontend Landing page with Material-UI and React-bootstrap
+
+> [https://the-venue-lilac.vercel.app/](https://the-venue-lilac.vercel.app/) 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

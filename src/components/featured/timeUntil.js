@@ -33,7 +33,7 @@ const TimeUntil = () => {
     
   useEffect(() => {
     
-    setInterval(()=>{getTimeUntil("Oct,19,2023,12:30:00")},1000);
+    setInterval(()=>{getTimeUntil("Oct,19,2026,12:30:00")},1000);
   },[getTimeUntil]);
 
   return (
